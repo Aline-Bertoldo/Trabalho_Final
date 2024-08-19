@@ -1,0 +1,6 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,Lara,Lara@gmail.com,$2y$10$qtdSDtpZt.RSSCg8APdSEOPR4HlAbU7OgkFm/cYQC9mFW9CAw/Cfa,1,,"2024-08-17 15:08:23",user
+2,Pessoa,pessoa@gmail.com,$2y$10$X25w4xB00UAp3ojmhXLa5OAPJzIywd6HfVPC5R4E3Rv8Hp5O04Q36,1,,"2024-08-17 17:00:25",user
+3,Jota,jota@gmail.com,$2y$10$rT15tgTdH2R8meUrrpPFsu9hvayiVyvSxtb.sULl4ZRteQW2DJ3fq,1,,"2024-08-17 19:17:54",user
+4,Flor,flor@gmail.com,$2y$10$fr22tbfJsEFM6/slcrCGYOniWzsTJhg9Y0IjLOFpt4XCrMTrF3J.i,1,952337,"2024-08-17 22:29:49",user
+5,Julia,julia@gmail.com,$2y$10$W/dx/kqQQe8L9o9ppDWnp.rfvxaqU1RXfvm8jBG.qP29Qjel8REEG,0,,"2024-08-18 00:14:42",user

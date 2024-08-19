@@ -1,0 +1,2 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,Lara,Lara@gmail.com,$2y$10$qtdSDtpZt.RSSCg8APdSEOPR4HlAbU7OgkFm/cYQC9mFW9CAw/Cfa,1,,"2024-08-17 15:08:23",user
